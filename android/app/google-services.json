@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225061927301",
+    "project_id": "educatlytask-c7fda",
+    "storage_bucket": "educatlytask-c7fda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225061927301:android:035fcee7ced9ff7115ecec",
+        "android_client_info": {
+          "package_name": "com.educatly.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTo0LUGRmOF2cyCbeOR-pw6BFZNfIl6Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
